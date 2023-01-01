@@ -1,0 +1,17 @@
+.node-label {
+    font: 12px sans-serif;
+}
+
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+}
+
+.radial-progress-backround {
+    fill: lightgrey;
+}
+
+.node {
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+[{
+    "name" : "Top Level",
+    "parent" : "null",
+    "value" : 58,
+    "children" : [{
+        "name" : "Level 2: A",
+        "value" : 96,
+        "parent" : "Top Level",
+        "children" : [{
+            "name" : "Son of A",
+            "value" : 34,
+            "parent" : "Level 2: A"
+        }, {
+            "name" : "Daughter of A",
+            "value" : 155,
+            "parent" : "Level 2: A"
+        }]
+    }, {
+        "name" : "Level 2: B",
+        "value" : 76,
+        "parent" : "Top Level"
+    }]
+}]
